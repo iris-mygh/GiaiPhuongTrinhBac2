@@ -1,0 +1,7 @@
+(webflask) D:\AHoc\CaoHoc\CNTriThuc_UngDung\QuadraticEquationSolver\src>node app.js
+
+$ conda activate webslask
+$ cd src/
+$ node app.js
+
+https://vietjack.com/toan-lop-9/cac-dang-bai-tap-ve-phuong-trinh-bac-hai-mot-an-cuc-hay.jsp
